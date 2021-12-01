@@ -12,7 +12,7 @@ align-items:center;
 justify-content :space-around;
 `;
 const Title = styled.h1`
-color: red;
+color: white;
 display:inline;`
 
 const Ul = styled.ul`
@@ -23,18 +23,20 @@ const Wrapper = styled.li`
 margin :2rem 3rem;
 list-style-type: none;
 cursor:pointer;
-padding :1rem;
-color:red;
+padding :0.5rem;
+color:white;
 font-size:1rem;
-text-decoration: underline;
+text-decoration: none;
+border-top:1px solid white;
+border-bottom:0.5px solid white;
 :hover{
     color :red;
     background-Color :white;
-    border-radius: 2rem 0 2rem 0
+    transition:0.8s;
+    border-radius: 2rem;
 }
-:after{
-    background-Color: white;
-}
+
+
 
 
 
