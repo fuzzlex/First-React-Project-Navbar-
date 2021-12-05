@@ -1,3 +1,7 @@
+
+# OPEN PROJECT
+[CLICK HERE FOR OPEN THE PROJECT](https://brave-euler-3f467a.netlify.app).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
